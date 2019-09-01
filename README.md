@@ -1,2 +1,10 @@
-# SQL_commands_in_Java
-A project to mimic variations of insert and select commands of SQL, and modify the database.
+# SQL Commands in Java
+
+- Mimic the `INSERT` and `SELECT` clauses.
+- Data is inserted/fetched from Java application commandline.
+
+
+### Requirements:
+- MySQL database
+- JDBC connection
+- JDK package
